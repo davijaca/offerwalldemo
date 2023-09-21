@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/offerwalldemo/static/css/main.b45fb39c.css",
-    "main.js": "/offerwalldemo/static/js/main.ad387015.js",
+    "main.js": "/offerwalldemo/static/js/main.fb5f57f4.js",
     "static/js/787.1f3e66b1.chunk.js": "/offerwalldemo/static/js/787.1f3e66b1.chunk.js",
     "static/media/footer2.png": "/offerwalldemo/static/media/footer2.6e84564f1b3883759b16.png",
     "static/media/background3.png": "/offerwalldemo/static/media/background3.f0d8eb16e2e93b098756.png",
     "index.html": "/offerwalldemo/index.html",
     "main.b45fb39c.css.map": "/offerwalldemo/static/css/main.b45fb39c.css.map",
-    "main.ad387015.js.map": "/offerwalldemo/static/js/main.ad387015.js.map",
+    "main.fb5f57f4.js.map": "/offerwalldemo/static/js/main.fb5f57f4.js.map",
     "787.1f3e66b1.chunk.js.map": "/offerwalldemo/static/js/787.1f3e66b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b45fb39c.css",
-    "static/js/main.ad387015.js"
+    "static/js/main.fb5f57f4.js"
   ]
 }
